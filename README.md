@@ -18,5 +18,4 @@
 
 
 ## 📫 Connect with me  
-!(https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=flat-square&logo=linkedin) 
-!(https://img.shields.io/badge/GitHub-Github-black?style=flat-square&logo=github)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/nada-ahmed-dotnetdeveloper5219/)
