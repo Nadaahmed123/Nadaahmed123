@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [Nada Ahmed] 👩‍💻  
+# 👋 Hey there! I'm Nada Ahmed 👩‍💻  
 
 🚀 **Full Stack Developer**  
 🎓 **Computer Science Graduate**  
