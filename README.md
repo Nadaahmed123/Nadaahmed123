@@ -8,4 +8,4 @@
 - 🛢 Databases: SQL Server, MongoDB  
 
 ## 📫 Connect with me  
-[![LinkedIn](https://www.linkedin.com/in/nada-ahmed-dotnetdeveloper5219/)
+https://www.linkedin.com/in/nada-ahmed-dotnetdeveloper5219/
