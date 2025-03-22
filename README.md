@@ -18,5 +18,5 @@
 
 
 ## 📫 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=flat-square&logo=linkedin)]  
-[![GitHub](https://img.shields.io/badge/GitHub-Github-black?style=flat-square&logo=github)]  
+![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=flat-square&logo=linkedin) 
+![GitHub](https://img.shields.io/badge/GitHub-Github-black?style=flat-square&logo=github)
