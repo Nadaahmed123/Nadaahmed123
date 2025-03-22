@@ -1,11 +1,25 @@
-# 👋 Hey there! I'm Ahmed 👨‍💻  
-🚀 Full Stack Developer | MERN Stack | ASP.NET Core Enthusiast  
+# 👋 Hey there! I'm [Nada Ahmed] 👩‍💻  
 
+🚀 **Full Stack Developer**  
+🎓 **Computer Science Graduate**  
+💡 Passionate about building scalable web applications and learning new technologies.  
+
+---
 
 ## 🛠 Tech Stack  
-- 💻 Languages: JavaScript, TypeScript, C#  
-- 🔥 Frameworks: React.js, Next.js, ASP.NET Core  
-- 🛢 Databases: SQL Server, MongoDB  
+- 💻 **Languages:** C#, JavaScript, TypeScript  
+- 🎨 **Frontend:** HTML, CSS, React.js, Next.js  
+- ⚙️ **Backend:** ASP.NET Core, Node.js, Express.js  
+- 🛢 **Databases:** SQL Server, MongoDB  
+- 🔥 **Concepts:** OOP, LINQ, Entity Framework, MVC  
+
+---
+
+## 📊 GitHub Stats  
+![Nadaahmed123](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
+
+---
 
 ## 📫 Connect with me  
-https://www.linkedin.com/in/nada-ahmed-dotnetdeveloper5219/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nada-ahmed-dotnetdeveloper5219/)  
+[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-black?style=flat-square&logo=github)](https://github.com/Nadaahmed123)  
